@@ -52,7 +52,7 @@ namespace CálculoBásicoNómina
             Console.WriteLine($" las horas que trabajo {horasTrabajo} ");
             Console.WriteLine($" las horas que trabajo {horasTrabajo} ");
             Console.WriteLine($" una hora vale {pagoHoras} ");
-            Console.WriteLine($" El sueldo optenido es  de : {salarioBruto} ");
+            Console.WriteLine($" El sueldo optenido es de  RD:{salarioBruto:N2} ");
 
 
 
